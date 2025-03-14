@@ -9,6 +9,9 @@ __pycache__/
 # C extensions
 *.so
 
+# other files
+junit*
+
 # Distribution / packaging
 .Python
 build/
