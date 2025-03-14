@@ -5,6 +5,8 @@ __pycache__/
 
 # PDF files
 *.pdf
+## ignore all pdf files except below - used for testing
+!goodmath.pdf
 
 # C extensions
 *.so
